@@ -1,16 +1,16 @@
 body {
-background: [purple];
+background: purple ;
 font-family: sans-serif;
 }
 h1 {
-color: [pink];
+color: pink;
 text-align: center;
 }
 .assign {
 display: flex;
 padding: 10px;
 margin: 10px;
-background: [purple];
+background: purple;
 }
 .assign img {
 width: 200px;
