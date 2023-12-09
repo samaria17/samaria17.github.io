@@ -7,10 +7,10 @@ color: #ff1493;
 text-align: center;
 }
 .assign {
-background-color:#000000
+background-color:#000000;
 padding: 10px;
 margin: 10px;
-background: purple;
+display: flex;
 }
 .assign img {
 width: 200px;
