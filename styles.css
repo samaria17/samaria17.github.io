@@ -1,18 +1,18 @@
 body {
-background-color:#8a2be2;
-font-family: sans-serif;
+    background-color:#8a2be2;
+   font-family: sans-serif;
 }
 h1 {
-color: #ff1493;
-text-align: center;
+   color: #ff1493;
+   text-align: center;
 }
 .assign {
-background-color:#000000;
-padding: 10px;
-margin: 10px;
-display: flex;
+   background-color:#000000;
+   padding: 10px;
+   margin: 10px;
+   display: flex;
 }
 .assign img {
-width: 200px;
-padding: 10px;
+  width: 200px;
+  padding: 10px;
 }
